@@ -11,7 +11,7 @@ It search in a PE for bytes that are equal in another PE
 ## Report
 The report is divided in:
 
-bytes | readable format | assembly [most of the times will be incorrect!]
+bytes | ascii | assembly [most of the times will be incorrect!]
 
 The work to indentify if a match is unique and valuable for the analysis is work of the analyst.
 
