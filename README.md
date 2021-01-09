@@ -15,5 +15,7 @@ bytes | ascii | assembly [most of the times will be incorrect!]
 
 The work to indentify if a match is unique and valuable for the analysis is work of the analyst.
 
+P.S: The example report was the comparison of the same executable, see images for proof.
+
 ## [TO DO]
 - Match similar bytes using ssdeep
