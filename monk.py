@@ -79,7 +79,7 @@ def analyze(file_1,file_2,increaser,increase="n",increase_v=0,times=0):
     report.close()
 
 
-analyze("C:\\Users\\carme\\Desktop\\pestudio\\pestudio.exe","C:\\Users\\carme\\Desktop\\pestudio\\pestudio.exe",16,"n",4,3)
+analyze("YOUR_FILE","YOUR_FILE",16,"n",4,3)
 
 
 
