@@ -16,8 +16,11 @@ bytes | ascii | assembly [most of the times will be incorrect!]
 The work to indentify if a match is unique and valuable for the analysis is work of the analyst.
 
 P.S: The example report was the comparison of the same executable, see images [In this case the assemby is correct].
+
 ![](https://raw.githubusercontent.com/Finch4/Monk/main/hex.png?token=AMRB74AGCTDGDA7CXFGAW7K77HAUY)
+
 ![](https://raw.githubusercontent.com/Finch4/Monk/main/assembly.png?token=AMRB74BLJJQMLPHHAS4UZ7277HAVU)
+
 ![](https://raw.githubusercontent.com/Finch4/Monk/main/match.png?token=AMRB74CD5DNF3O4FV62Q4W277HAW4)
 
 ## [TO DO]
