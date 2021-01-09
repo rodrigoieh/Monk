@@ -9,7 +9,7 @@ It search in a PE for bytes that are equal in another PE
 [0:increaser] and etc...., the second time will be [0:increaser+increase_v] (let's call it temp_value), the third time will be [0:temp_value+increase_v].
 
 ## Report
-There report is divided in:
+The report is divided in:
 
 bytes | readable format | assembly [most of the times will be incorrect!]
 
