@@ -46,7 +46,7 @@ def analyze(file_1,file_2,increaser,increase="n",increase_v=0,times=0):
                 continue
         report.write(str(round(p/100,4)))
     else:
-        inc = 1
+        inc = 0
         while inc <= times:
             while i != min:
                 if hexdata_1[counter_1:counter_2] in hexdata_2 and len(hexdata_1[counter_1:counter_2]) > 0 and hexdata_1[counter_1:counter_2].count(b"00") < len(hexdata_1[counter_1:counter_2])/2:
