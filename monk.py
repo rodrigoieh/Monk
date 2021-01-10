@@ -15,7 +15,6 @@ def analyze(file_1,file_2,increaser,increase="n",increase_v=0,times=0):
     increase_v *= 2
     counter_1 = 0
     counter_2 = increaser
-    report_list = []
     file_1_lines = open(file_1,"rb").read()
     file_2_lines = open(file_2,"rb").read()
     hexdata_1 = binascii.hexlify(file_1_lines)
