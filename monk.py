@@ -2,8 +2,6 @@ import binascii
 from capstone import *
 import datetime
 
-def replace(string):
-    return string.replace("b","").replace("'","")
 
 def disassemble(code):
     md = Cs(CS_ARCH_X86, CS_MODE_32)
