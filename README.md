@@ -28,6 +28,6 @@ P.S: The example report was the comparison of the same executable, see images [I
 
 
 # Updates
-v0.2
+## v0.2
 - Added a menu
 - New filter function
