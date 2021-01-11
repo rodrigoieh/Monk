@@ -25,3 +25,9 @@ P.S: The example report was the comparison of the same executable, see images [I
 ![](https://raw.githubusercontent.com/Finch4/Monk/main/assembly.png?token=AMRB74BLJJQMLPHHAS4UZ7277HAVU)
 
 ![](https://raw.githubusercontent.com/Finch4/Monk/main/match.png?token=AMRB74CD5DNF3O4FV62Q4W277HAW4)
+
+
+# Updates
+v0.2
+- Added a menu
+- New filter function
