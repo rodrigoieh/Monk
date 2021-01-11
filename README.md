@@ -7,6 +7,7 @@ It search in a PE for bytes that are equal in another PE
 - increase_v = How many bytes add to increaser after restarting
 - times = How many times add bytes number to parse to [increase], example: if [increase_v] == 2 and [times] == 2 and [increase] == "y" and [increaser] = 8, the first parse will be
 [0:increaser] and etc...., the second time will be [0:increaser+increase_v] (let's call it temp_value), the third time will be [0:temp_value+increase_v].
+
 [Video](https://youtu.be/lk6bFiqNY6o)
 
 
